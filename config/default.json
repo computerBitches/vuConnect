@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://sir_rosebro:OV36KL6baHJcqGkx@devconnect-vfjr2.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientID":"67a60564d1e3047d1ce6",
+    "githubClientSecret":"bf9a5af5bfc90d8e94b63d8b9e30af1f82670cab"
+}
